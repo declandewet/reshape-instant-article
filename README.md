@@ -1,2 +1,2 @@
 # reshape-instant-article
-Reshape plugin for Facebook Instant Articles
+[Reshape](https://github.com/reshape/reshape) plugin for Facebook Instant Articles
